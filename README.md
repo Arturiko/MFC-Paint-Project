@@ -1,4 +1,3 @@
-# MFC-Paint-Project
-MFC Paint Project at college
+A C++/MFC OOP paint project with graphic UI.
 
-First object oriented project - 2013
+Basically, first object oriented project at college - 2013
